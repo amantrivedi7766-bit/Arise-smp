@@ -1,0 +1,13 @@
+# AriseSMP Configuration File
+
+soul-settings:
+  base-capture-chance: 10.0
+  max-souls-per-player: 5
+
+tasks:
+  default-duration-seconds: 300
+
+messages:
+  prefix: '&8[&5Arise&8] &7'
+  no-permission: '&cYou do not have permission to do this.'
+  soul-arise: '&aArise! A new soul has joined your ranks.'

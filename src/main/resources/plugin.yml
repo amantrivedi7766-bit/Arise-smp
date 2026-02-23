@@ -1,0 +1,25 @@
+name: AriseSMP
+version: '${project.version}'
+main: com.arisesmp.AriseSMP
+api-version: '1.20'
+authors: [YourName]
+description: Advanced Solo Leveling SMP Plugin
+commands:
+  arise:
+    description: Main command to awaken souls
+    usage: /arise
+  arisework:
+    description: Assign work to your souls
+    usage: /arisework
+  soulrelease:
+    description: Release a captured soul
+    usage: /soulrelease
+  soulattack:
+    description: Command your souls to attack a target
+    usage: /soulattack
+  soulcome:
+    description: Recall all your souls to your location
+    usage: /soulcome
+  soultask:
+    description: Manage tasks for your souls
+    usage: /soultask
